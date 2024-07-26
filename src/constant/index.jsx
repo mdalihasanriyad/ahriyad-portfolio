@@ -8,7 +8,7 @@ export const projectArray = [
     {
         title: "Educare English Learning Academy",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Reactjs", "TailwindCSS", "Netlify Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
@@ -26,7 +26,7 @@ export const projectArray = [
     {
         title: "Amazon Clone with login, cart-option and payment integration.",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Nextjs", "TailwindCSS", "Vercel Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
@@ -38,19 +38,19 @@ export const projectArray = [
     {
         title: "Dynamic Responsive Portfolio",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Reactjs", "Vanila CSS", "Netlify Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Shoppers Online Shopping Market",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Daisy Ui", "TailwindCSS", "Vercel Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Single Page Personalized Portfolio",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["HTML", "TailwindCSS", "GitHub"],
         link: "https://bazar.reactbd.com/"
     },
     {

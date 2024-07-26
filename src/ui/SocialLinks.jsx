@@ -20,7 +20,7 @@ const SocialAccounts = [
     },
     {
         title: "linkedin",
-        link: "https://www.linkedin.com/mdalihasanriyad",
+        link: "https://www.linkedin.com/in/mdalihasanriyad/",
         icon: <SlSocialLinkedin />,
         delay: 0.9,
     },
