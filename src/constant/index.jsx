@@ -1,6 +1,6 @@
 export const projectArray = [
     {
-        title: "Modern Ecommerce Website",
+        title: "Modern E-commerce Website",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
         listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
         link: "https://bazar.reactbd.com/"
@@ -8,49 +8,49 @@ export const projectArray = [
     {
         title: "Educare English Learning Academy",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Netlify Deploy"],
+        listItem: ["Reactjs", "Type Script", "Netlify Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Cyber Security Blog with live comments section",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["ExpressJs", "MongoDB", "NextJs"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "ReactBD web development company",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["React Js", "HTML5", "Node js"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Amazon Clone with login, cart-option and payment integration.",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Nextjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["NextJs", "vite", "Vercel Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "JSON data (example data api for test projects)",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Java Script", "CSS3", "Express Js"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Dynamic Responsive Portfolio",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "Vanila CSS", "Netlify Deploy"],
+        listItem: ["TypeScript ", "Daisy Ui", "Netlify Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Shoppers Online Shopping Market",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Daisy Ui", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["React Js", "TailwindCSS", "Vercel Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Single Page Personalized Portfolio",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["HTML", "TailwindCSS", "GitHub"],
+        listItem: ["HTML", "Java Script", "GitHub"],
         link: "https://bazar.reactbd.com/"
     },
     {
@@ -62,7 +62,7 @@ export const projectArray = [
     {
         title: "Bazaar - A Modern Shopping app",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Reactjs", "View Js", "MongoDB"],
         link: "https://bazar.reactbd.com/"
     },
     {
@@ -74,19 +74,19 @@ export const projectArray = [
     {
         title: "Todo application",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Reactjs", "TailwindCSS", "Netlify Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Shoppers Online Shopping Market",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Reactjs", "Next Js", "Vercel Deploy"],
         link: "https://bazar.reactbd.com/"
     },
     {
         title: "Dynamic Responsive Portfolio",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laudantium velit qui sint non, voluptates quo a veritatis.",
-        listItem: ["Reactjs", "TailwindCSS", "Vercel Deploy"],
+        listItem: ["Reactjs", "NodeJs", "Firebase"],
         link: "https://bazar.reactbd.com/"
     },
 ]
