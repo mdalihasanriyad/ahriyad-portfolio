@@ -1,6 +1,5 @@
 import React from 'react';
 import Container from './Container';
-import SectionTitle from './SectionTitle';
 
 const Contact = () => {
     return (
