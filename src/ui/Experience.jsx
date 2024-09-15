@@ -84,15 +84,15 @@ const Experience = () => {
                     jobTag='@Google'
                     date='Jan- 2021 - 2023'
                     detailsOne='Write modern, performant, maintainable code for a diverse array of client and internal projects'
-                    detailsTwo='Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry s standard dummy text ever since the 1500 s'
-                    detailsThree='Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis' />}
+                    detailsTwo='Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
+                    detailsThree='Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify' />}
                 {workApple && <WorkCard
                     jobTitle='MERN Stack Developer'
                     jobTag='@Apple'
                     date='Jan- 2022 - 2023'
-                    detailsOne='Write modern, performant, maintainable code for a diverse array of client and internal projects'
+                    detailsOne='Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
                     detailsTwo='Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify'
-                    detailsThree='Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis' />}
+                    detailsThree='Write modern, performant, maintainable code for a diverse array of client and internal projects' />}
                 {workSplash && <WorkCard
                     jobTitle='Web Designer'
                     jobTag='@Splash'
@@ -104,8 +104,8 @@ const Experience = () => {
                     jobTitle='Font-End Developer'
                     jobTag='@Amazon'
                     date='Jan- 2020 - 2021'
-                    detailsOne='Write modern, performant, maintainable code for a diverse array of client and internal projects'
-                    detailsTwo='Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,'
+                    detailsOne='Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify'
+                    detailsTwo='Write modern, performant, maintainable code for a diverse array of client and internal projects'
                     detailsThree='Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis' />}
             </div>
         </Container>
