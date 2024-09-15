@@ -61,7 +61,7 @@ const Project = () => {
                             <p className='text-designColor text-sm tracking-wide'>Featured Project</p>
                             <h1 className='text-2xl font-bold'>MR Paribahan</h1>
                         </div>
-                        <p className='bg-textBg text-sm md:text-base p-2 md:p-6 rounded-md'>MR Paribahan clone website for visualizing personalized MR Paribahan website. View your products, Add your account with O-auth and then make the purchage using stripe.</p>
+                        <p className='bg-textBg text-sm md:text-base p-2 md:p-6 rounded-md'>MR Paribahan clone website for visualizing personalized MR Paribahan website. View your Tickets, Add your account with O-auth and then make the purchage tickets using stripe.</p>
                         <ul className='text-xs tracking-wide md:text-sm flex gap-2 md:gap-5 justify-between text-darkText'>
                             <li>Nextjs</li>
                             <li>Typescript</li>
