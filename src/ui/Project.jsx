@@ -17,7 +17,7 @@ const Project = () => {
                     <div className="w-full lg:w-1/2 flex flex-col gap-6 lg:justify-between items-end text-right md:-ml-16 z-10">
                         <div className="">
                             <p className='text-designColor text-sm tracking-wide'>Featured Project</p>
-                            <h1 className='text-2xl font-bold'>Byte Blaze</h1>
+                            <h1 className='text-2xl font-bold'>SHS Lira</h1>
                         </div>
                         <p className='bg-textBg text-sm md:text-base p-2 md:p-6 rounded-md'> SHSLIRA is a modern, multifunctional digital marketing platform featuring a powerful referral system. It is developed using React for the frontend and Node.js, Express.js, and MongoDB for the backend, ensuring high performance, scalability, and secure data handling. The platform is designed to streamline user engagement, marketing operations, and referral-based growth.</p>
                         <ul className='text-xs tracking-wide md:text-sm flex gap-2 md:gap-5 justify-between text-darkText'>
