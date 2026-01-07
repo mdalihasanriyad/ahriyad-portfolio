@@ -10,12 +10,20 @@ import RightSide from "./ui/RightSide"
 import ScrollBtn from "./ui/ScrollBtn"
 import { motion } from "framer-motion"
 
+import SEO from "./components/SEO"
 
 function App() {
 
 
   return (
     <main className="font-bodyFont  bg-primaryColor min-h-screen text-lightText">
+      <SEO
+        title="Ali Hasan Riyad | Frontend Developer"
+        description="Ali Hasan Riyad is a professional Frontend & MERN Stack Developer. Explore projects, skills, experience and contact."
+        keywords="Ali Hasan Riyad, React Developer, Frontend Developer, MERN Stack Developer, ahriyad"
+        url="https://ahriyad.top"
+        image="https://ahriyad.top/R.png"
+      />
       <Header />
       <Banner />
       <About />
