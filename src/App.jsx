@@ -9,8 +9,9 @@ import Project from "./ui/Project"
 import RightSide from "./ui/RightSide"
 import ScrollBtn from "./ui/ScrollBtn"
 import { motion } from "framer-motion"
+import SEO from "./ui/SEO"
 
-import SEO from "./components/SEO"
+
 
 function App() {
 
