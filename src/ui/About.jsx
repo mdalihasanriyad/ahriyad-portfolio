@@ -21,7 +21,7 @@ const About = () => {
             <SectionTitle titleN0='1.' title='About me' />
             <div className=" flex flex-col lg:flex-row gap-16">
                 <div className="w-full lg:w-2/3 text-darkText font-medium flex flex-col gap-4">
-                    <p>Hello! My name is Ali Hasan Riyad and I enjoy creating things that live on the internet. My interest in web development started back in 2018 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!</p>
+                    <p>Hello! My name is Ali Hasan Riyad and I enjoy creating things that live on the internet. My interest in web development started back in 2020 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!</p>
                     <p>Fast-forward to today, and I had the privilege of working at an advertising agency, a start-up, a huge corporation, and a student-led design studio.</p>
 
                     <p>Here are a few technologies I have been working with recently:</p>
