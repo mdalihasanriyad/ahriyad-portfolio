@@ -64,7 +64,7 @@ A modern and responsive portfolio website built with **React.js**, **Vite**, and
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone [https://github.com/your-username/your-repository-name.git](https://github.com/mdalihasanriyad/ahriyad-portfolio/)
 ```
 
 Navigate to the project directory:
